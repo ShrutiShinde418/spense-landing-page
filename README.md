@@ -2,11 +2,24 @@
 
 - [Codewell Spense Landing Page](#codewell-spense-landing-page)
   - [My Process](#my-process)
-    - [Built With](#built-with)
+  - [Overview](#overview)
     - [Screenshot](#screenshot)
+    - [Links](#links)
+    - [Built With](#built-with)
     - [What I Learned](#what-i-learned)
 
 ## My Process
+
+## Overview
+
+### Screenshot
+
+![Screenshot](./screenshot.png)
+
+### Links
+
+- Solution URL: [https://github.com/ShrutiShinde418/spense-landing-page](https://github.com/ShrutiShinde418/spense-landing-page)
+- Live Site URL: [https://shrutishinde418.github.io/spense-landing-page/](https://shrutishinde418.github.io/spense-landing-page/)
 
 ### Built With
 
@@ -15,9 +28,7 @@
 - Flexbox
 - CSS3
 
-### Screenshot
 
-![Screenshot](./screenshot.png)
 
 ### What I Learned
 
