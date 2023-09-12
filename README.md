@@ -1,5 +1,11 @@
 # Codewell Spense Landing Page
 
+- [Codewell Spense Landing Page](#codewell-spense-landing-page)
+  - [My Process](#my-process)
+    - [Built With](#built-with)
+    - [Screenshot](#screenshot)
+    - [What I Learned](#what-i-learned)
+
 ## My Process
 
 ### Built With
@@ -8,6 +14,10 @@
 - Bootstrap 5.1
 - Flexbox
 - CSS3
+
+### Screenshot
+
+![Screenshot](./screenshot.png)
 
 ### What I Learned
 
